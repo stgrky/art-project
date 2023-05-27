@@ -5,10 +5,7 @@ const ConfideInMe = () => {
     <>
       <h1>Confide In Me</h1>
       <p>Written by: Grant Kyle</p>
-      <p>
-        Credit to: David Kyle, Cade Kyle, maybe Mary Margaret Dement (if she
-        helped with some words maybe??? I don’t remember).
-      </p>
+      <p>Credit to: David Kyle, Cade Kyle</p>
 
       <h2>VERSE 1A</h2>
       <p>
